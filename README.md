@@ -46,7 +46,7 @@ You need Node.js 16 or later and a MySQL server.
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/iam-system-core.git
+https://github.com/KRTNP/Identity-Access-Management-IAM-System.git
 cd iam-system-core
 npm install
 ```
